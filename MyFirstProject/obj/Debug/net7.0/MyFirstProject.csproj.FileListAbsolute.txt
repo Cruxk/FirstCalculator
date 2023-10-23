@@ -1,0 +1,14 @@
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\bin\Debug\net7.0\MyFirstProject.exe
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\bin\Debug\net7.0\MyFirstProject.deps.json
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\bin\Debug\net7.0\MyFirstProject.runtimeconfig.json
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\bin\Debug\net7.0\MyFirstProject.dll
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\bin\Debug\net7.0\MyFirstProject.pdb
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.dll
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\refint\MyFirstProject.dll
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.pdb
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\Brenden\RiderProjects\FirstSolution\MyFirstProject\obj\Debug\net7.0\ref\MyFirstProject.dll
